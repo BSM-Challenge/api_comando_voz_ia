@@ -1,0 +1,11 @@
+comando,intencao,acao
+abrir resultados,abrir_resultados,/hc/resultados
+quero ver meus exames,abrir_resultados,/hc/resultados
+abrir receitas,abrir_receitas,/hc/receitas
+mostrar minhas receitas,abrir_receitas,/hc/receitas
+voltar,voltar,voltar
+voltar para o início,voltar,voltar
+abrir ajuda,abrir_ajuda,/hc/ajuda
+preciso de ajuda,abrir_ajuda,/hc/ajuda
+abrir documentos,abrir_documentos,/hc/documentos
+ver meus documentos,abrir_documentos,/hc/documentos
