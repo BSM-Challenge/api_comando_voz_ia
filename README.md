@@ -36,11 +36,22 @@ A API utiliza **Machine Learning** para identificar **intenções de comando de 
 git clone https://github.com/BSM-Challenge/api_comando_voz_ia.git
 cd api_comando_voz_ia
 ```
-###  2. Instalar as dependências
+###  2. Criar e ativar o ambiente virtual
+Windows
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+macOS/Linux
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+###  3. Instalar as dependências
 ```bash
 pip install -r requirements.txt
 ```
-###  3. Executar a API localmente
+###  4. Executar a API localmente
 ```bash
 python app.py
 ```
@@ -48,7 +59,7 @@ A API ficará disponível em:
 ```bash
 http://localhost:5000
 ```
-###  4. Testar no Insomnia ou Postman
+###  5. Testar no Insomnia ou Postman
 Método: POST
 
 URL: http://localhost:5000/voz
