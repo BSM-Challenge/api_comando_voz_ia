@@ -81,8 +81,14 @@ Resposta esperada:
 
 ## 🌐 Onde está sendo utilizada
 
-Esta API é integrada ao Portal HC (Centro de Treinamento) — um sistema React desenvolvido pela equipe BSM-Challenge no Challenge FIAP 2025.
-Ela é utilizada na funcionalidade de Navegação por Voz, permitindo que o usuário controle o portal apenas falando comandos simples.
+Esta API está ativa e hospedada no Render, e pode ser acessada publicamente pelos links abaixo:
+
+🌍 Página inicial da API: https://api-comando-voz-ia.onrender.com
+
+🔗 Endpoint principal (rota /voz): https://api-comando-voz-ia.onrender.com/voz
+
+Ela está integrada ao Portal HC (Centro de Treinamento) — um sistema React desenvolvido pela equipe BSM-Challenge no Challenge FIAP 2025.
+A API é utilizada na funcionalidade de Navegação por Voz, permitindo que o usuário controle o portal apenas utilizando comandos falados simples.
 
 
 ## 🛠 Tecnologias Utilizadas
