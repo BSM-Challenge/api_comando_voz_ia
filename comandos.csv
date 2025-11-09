@@ -1,11 +1,68 @@
 comando,intencao,acao
-abrir resultados,abrir_resultados,/hc/resultados
-quero ver meus exames,abrir_resultados,/hc/resultados
 abrir receitas,abrir_receitas,/hc/receitas
 mostrar minhas receitas,abrir_receitas,/hc/receitas
-voltar,voltar,voltar
-voltar para o início,voltar,voltar
-abrir ajuda,abrir_ajuda,/hc/ajuda
-preciso de ajuda,abrir_ajuda,/hc/ajuda
+ver receitas,abrir_receitas,/hc/receitas
+quero ver minhas receitas,abrir_receitas,/hc/receitas
+entrar na página de receitas,abrir_receitas,/hc/receitas
+abrir minhas receitas,abrir_receitas,/hc/receitas
+acessar receitas,abrir_receitas,/hc/receitas
+abrir resultados,abrir_resultados,/hc/resultados
+ver meus resultados,abrir_resultados,/hc/resultados
+mostrar resultados,abrir_resultados,/hc/resultados
+quero ver meus resultados,abrir_resultados,/hc/resultados
+acessar resultados,abrir_resultados,/hc/resultados
+entrar na página de resultados,abrir_resultados,/hc/resultados
+abrir agenda,abrir_agenda,/hc/agenda
+mostrar minha agenda,abrir_agenda,/hc/agenda
+ver agenda,abrir_agenda,/hc/agenda
+eu tenho algo na agenda hoje,abrir_agenda,/hc/agenda
+quero ver minha agenda,abrir_agenda,/hc/agenda
+acessar agenda,abrir_agenda,/hc/agenda
+abrir teleconsulta,abrir_teleconsulta,/hc/teleconsulta
+ver teleconsulta,abrir_teleconsulta,/hc/teleconsulta
+mostrar teleconsulta,abrir_teleconsulta,/hc/teleconsulta
+entrar na página teleconsulta,abrir_teleconsulta,/hc/teleconsulta
+quero acessar a teleconsulta,abrir_teleconsulta,/hc/teleconsulta
+vá para teleconsulta,abrir_teleconsulta,/hc/teleconsulta
+abrir exames,abrir_exames,/hc/exames
+ver exames,abrir_exames,/hc/exames
+mostrar exames,abrir_exames,/hc/exames
+abrir solicitação de exames,abrir_exames,/hc/exames
+entrar na página de exames,abrir_exames,/hc/exames
+acessar exames,abrir_exames,/hc/exames
 abrir documentos,abrir_documentos,/hc/documentos
 ver meus documentos,abrir_documentos,/hc/documentos
+mostrar documentos,abrir_documentos,/hc/documentos
+entrar na página de documentos,abrir_documentos,/hc/documentos
+acessar documentos,abrir_documentos,/hc/documentos
+quero ver meus documentos,abrir_documentos,/hc/documentos
+abrir ajuda,abrir_ajuda,/hc/ajuda
+preciso de ajuda,abrir_ajuda,/hc/ajuda
+quero ajuda,abrir_ajuda,/hc/ajuda
+me ajude,abrir_ajuda,/hc/ajuda
+entrar na página de ajuda,abrir_ajuda,/hc/ajuda
+ajuda por favor,abrir_ajuda,/hc/ajuda
+abrir acessibilidade,abrir_acessibilidade,/hc
+ver acessibilidade,abrir_acessibilidade,/hc
+quero acessibilidade,abrir_acessibilidade,/hc
+preciso de acessibilidade,abrir_acessibilidade,/hc
+entrar na página de acessibilidade,abrir_acessibilidade,/hc
+acessar acessibilidade,abrir_acessibilidade,/hc
+voltar para o início,abrir_inicio,/hc
+ir para o início,abrir_inicio,/hc
+quero voltar ao início,abrir_inicio,/hc
+voltar ao começo,abrir_inicio,/hc
+abrir página inicial,abrir_inicio,/hc
+início,abrir_inicio,/hc
+abrir navegação por voz,abrir_recursos,/hc/maisRecursos
+ativar navegação por voz,abrir_recursos,/hc/maisRecursos
+abrir mais recursos,abrir_recursos,/hc/maisRecursos
+entrar na página de voz,abrir_recursos,/hc/maisRecursos
+ver recursos de voz,abrir_recursos,/hc/maisRecursos
+navegação por voz,abrir_recursos,/hc/maisRecursos
+abrir centro de treinamento,abrir_treinamento,/hc/centroDeTreinamento
+ver treinamento,abrir_treinamento,/hc/centroDeTreinamento
+entrar no treinamento,abrir_treinamento,/hc/centroDeTreinamento
+quero ver o treinamento,abrir_treinamento,/hc/centroDeTreinamento
+acessar centro de treinamento,abrir_treinamento,/hc/centroDeTreinamento
+treinamento,abrir_treinamento,/hc/centroDeTreinamento
