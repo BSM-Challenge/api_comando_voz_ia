@@ -6,63 +6,140 @@ quero ver minhas receitas,abrir_receitas,/hc/receitas
 entrar na página de receitas,abrir_receitas,/hc/receitas
 abrir minhas receitas,abrir_receitas,/hc/receitas
 acessar receitas,abrir_receitas,/hc/receitas
+abrir minha receita,abrir_receitas,/hc/receitas
+ver minha receita,abrir_receitas,/hc/receitas
+mostrar minha receita,abrir_receitas,/hc/receitas
+acessar minhas receitas,abrir_receitas,/hc/receitas
+minhas receitas favoritas,abrir_receitas,/hc/receitas
 abrir resultados,abrir_resultados,/hc/resultados
 ver meus resultados,abrir_resultados,/hc/resultados
 mostrar resultados,abrir_resultados,/hc/resultados
 quero ver meus resultados,abrir_resultados,/hc/resultados
 acessar resultados,abrir_resultados,/hc/resultados
 entrar na página de resultados,abrir_resultados,/hc/resultados
+abrir meu resultado,abrir_resultados,/hc/resultados
+ver meu resultado,abrir_resultados,/hc/resultados
+acessar meus resultados,abrir_resultados,/hc/resultados
+meus resultados recentes,abrir_resultados,/hc/resultados
+mostrar meu resultado,abrir_resultados,/hc/resultados
 abrir agenda,abrir_agenda,/hc/agenda
 mostrar minha agenda,abrir_agenda,/hc/agenda
 ver agenda,abrir_agenda,/hc/agenda
 eu tenho algo na agenda hoje,abrir_agenda,/hc/agenda
 quero ver minha agenda,abrir_agenda,/hc/agenda
 acessar agenda,abrir_agenda,/hc/agenda
-abrir teleconsulta,abrir_teleconsulta,/hc/teleconsulta
-ver teleconsulta,abrir_teleconsulta,/hc/teleconsulta
-mostrar teleconsulta,abrir_teleconsulta,/hc/teleconsulta
-entrar na página teleconsulta,abrir_teleconsulta,/hc/teleconsulta
-quero acessar a teleconsulta,abrir_teleconsulta,/hc/teleconsulta
-vá para teleconsulta,abrir_teleconsulta,/hc/teleconsulta
+abrir minha agenda,abrir_agenda,/hc/agenda
+ver minhas agendas,abrir_agenda,/hc/agenda
+minhas agendas,abrir_agenda,/hc/agenda
+acessar minha agenda,abrir_agenda,/hc/agenda
+mostrar minhas agendas,abrir_agenda,/hc/agenda
+abrir tele consulta,abrir_teleconsulta,/hc/teleconsulta
+ver tele consulta,abrir_teleconsulta,/hc/teleconsulta
+mostrar tele consulta,abrir_teleconsulta,/hc/teleconsulta
+entrar na página tele consulta,abrir_teleconsulta,/hc/teleconsulta
+teleconsulta,abrir_teleconsulta,/hc/teleconsulta
+vá para tele consulta,abrir_teleconsulta,/hc/teleconsulta
+abrir minha tele consulta,abrir_teleconsulta,/hc/teleconsulta
+ver minhas tele consultas,abrir_teleconsulta,/hc/teleconsulta
+acessar tele consultas,abrir_teleconsulta,/hc/teleconsulta
+minha tele consulta,abrir_teleconsulta,/hc/teleconsulta
+minhas tele consultas,abrir_teleconsulta,/hc/teleconsulta
 abrir exames,abrir_exames,/hc/exames
 ver exames,abrir_exames,/hc/exames
 mostrar exames,abrir_exames,/hc/exames
 abrir solicitação de exames,abrir_exames,/hc/exames
 entrar na página de exames,abrir_exames,/hc/exames
 acessar exames,abrir_exames,/hc/exames
+abrir meus exames,abrir_exames,/hc/exames
+meu exame,abrir_exames,/hc/exames
+meus exames,abrir_exames,/hc/exames
+ver meu exame,abrir_exames,/hc/exames
+acessar meus exames,abrir_exames,/hc/exames
 abrir documentos,abrir_documentos,/hc/documentos
 ver meus documentos,abrir_documentos,/hc/documentos
 mostrar documentos,abrir_documentos,/hc/documentos
 entrar na página de documentos,abrir_documentos,/hc/documentos
 acessar documentos,abrir_documentos,/hc/documentos
 quero ver meus documentos,abrir_documentos,/hc/documentos
+abrir meu documento,abrir_documentos,/hc/documentos
+meu documento,abrir_documentos,/hc/documentos
+meus documentos,abrir_documentos,/hc/documentos
+ver documento,abrir_documentos,/hc/documentos
+acessar meu documento,abrir_documentos,/hc/documentos
 abrir ajuda,abrir_ajuda,/hc/ajuda
 preciso de ajuda,abrir_ajuda,/hc/ajuda
 quero ajuda,abrir_ajuda,/hc/ajuda
 me ajude,abrir_ajuda,/hc/ajuda
 entrar na página de ajuda,abrir_ajuda,/hc/ajuda
 ajuda por favor,abrir_ajuda,/hc/ajuda
+acessar ajuda,abrir_ajuda,/hc/ajuda
+abrir a ajuda,abrir_ajuda,/hc/ajuda
+ver ajuda,abrir_ajuda,/hc/ajuda
+quero pedir ajuda,abrir_ajuda,/hc/ajuda
+preciso da ajuda,abrir_ajuda,/hc/ajuda
 abrir acessibilidade,abrir_acessibilidade,/hc
 ver acessibilidade,abrir_acessibilidade,/hc
 quero acessibilidade,abrir_acessibilidade,/hc
 preciso de acessibilidade,abrir_acessibilidade,/hc
 entrar na página de acessibilidade,abrir_acessibilidade,/hc
 acessar acessibilidade,abrir_acessibilidade,/hc
+minha acessibilidade,abrir_acessibilidade,/hc
+minhas opções de acessibilidade,abrir_acessibilidade,/hc
+ver minha acessibilidade,abrir_acessibilidade,/hc
+abrir acessibilidades,abrir_acessibilidade,/hc
+acessar minha acessibilidade,abrir_acessibilidade,/hc
 voltar para o início,abrir_inicio,/hc
 ir para o início,abrir_inicio,/hc
 quero voltar ao início,abrir_inicio,/hc
 voltar ao começo,abrir_inicio,/hc
 abrir página inicial,abrir_inicio,/hc
 início,abrir_inicio,/hc
+voltar ao início,abrir_inicio,/hc
+ir ao início,abrir_inicio,/hc
+retornar ao início,abrir_inicio,/hc
+ir pra página inicial,abrir_inicio,/hc
+voltar pra página inicial,abrir_inicio,/hc
 abrir navegação por voz,abrir_recursos,/hc/maisRecursos
 ativar navegação por voz,abrir_recursos,/hc/maisRecursos
 abrir mais recursos,abrir_recursos,/hc/maisRecursos
 entrar na página de voz,abrir_recursos,/hc/maisRecursos
 ver recursos de voz,abrir_recursos,/hc/maisRecursos
 navegação por voz,abrir_recursos,/hc/maisRecursos
+ativar o recurso de voz,abrir_recursos,/hc/maisRecursos
+abrir recurso de voz,abrir_recursos,/hc/maisRecursos
+ver meus recursos de voz,abrir_recursos,/hc/maisRecursos
+acessar navegação por voz,abrir_recursos,/hc/maisRecursos
+meus recursos de voz,abrir_recursos,/hc/maisRecursos
 abrir centro de treinamento,abrir_treinamento,/hc/centroDeTreinamento
 ver treinamento,abrir_treinamento,/hc/centroDeTreinamento
 entrar no treinamento,abrir_treinamento,/hc/centroDeTreinamento
 quero ver o treinamento,abrir_treinamento,/hc/centroDeTreinamento
 acessar centro de treinamento,abrir_treinamento,/hc/centroDeTreinamento
 treinamento,abrir_treinamento,/hc/centroDeTreinamento
+meu treinamento,abrir_treinamento,/hc/centroDeTreinamento
+meus treinamentos,abrir_treinamento,/hc/centroDeTreinamento
+ver meu treinamento,abrir_treinamento,/hc/centroDeTreinamento
+acessar meu treinamento,abrir_treinamento,/hc/centroDeTreinamento
+abrir os treinamentos,abrir_treinamento,/hc/centroDeTreinamento
+abrir o menu,abrir_menu_mobile,/hc/menuMobile
+Vai para o menu,abrir_menu_mobile,/hc/menuMobile
+entrar no menu,abrir_menu_mobile,/hc/menuMobile
+menu,abrir_menu_mobile,/hc/menuMobile
+acesse o menu,abrir_menu_mobile,/hc/menuMobile
+preciso do menu,abrir_menu_mobile,/hc/menuMobile
+abrir meu menu,abrir_menu_mobile,/hc/menuMobile
+meu menu,abrir_menu_mobile,/hc/menuMobile
+meus menus,abrir_menu_mobile,/hc/menuMobile
+acessar o menu,abrir_menu_mobile,/hc/menuMobile
+ver menu,abrir_menu_mobile,/hc/menuMobile
+abrir os avisos,abrir_menu_avisos,/hc/avisosMobile
+Vai para os avisos,abrir_menu_avisos,/hc/avisosMobile
+entrar no aviso,abrir_menu_avisos,/hc/avisosMobile
+aviso,abrir_menu_avisos,/hc/avisosMobile
+acesse o aviso,abrir_menu_avisos,/hc/avisosMobile
+preciso do aviso,abrir_menu_avisos,/hc/avisosMobile
+abrir aviso,abrir_menu_avisos,/hc/avisosMobile
+ver avisos,abrir_menu_avisos,/hc/avisosMobile
+meu aviso,abrir_menu_avisos,/hc/avisosMobile
+meus avisos,abrir_menu_avisos,/hc/avisosMobile
+acessar meus avisos,abrir_menu_avisos,/hc/avisosMobile
