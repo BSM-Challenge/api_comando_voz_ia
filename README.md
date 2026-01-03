@@ -20,7 +20,7 @@ A API utiliza **Machine Learning** para identificar **intenções de comando de 
 
 ---
 
-## 🧠 Como foi criada
+## 🧠 Como foi desenvolvida
 
 1. **Coleta de dados:** Criado um dataset (`comandos.csv`) com frases de voz comuns e suas respectivas intenções e ações.  
 2. **Treinamento do modelo:** Utilizado o **TfidfVectorizer** + **MultinomialNB** (Naive Bayes) para classificar os comandos.  
